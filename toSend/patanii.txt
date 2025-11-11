@@ -1,0 +1,20 @@
+lajsfklj slfj kuch nii pata
+1 b 
+2 b 
+3 a 
+4 a
+5 b
+
+✅ Next Possible Steps
+simple file transfer using cpp
+
+Test larger files and watch the progress bar on the client.
+
+Two-way file transfer — so the server can also send files back to the client.
+
+Auto-discovery — so the client can find the server automatically without typing IP.
+
+Add encryption (TLS or SSH) for secure transfer over public Wi-Fi.
+
+Auto-discovery — so the client can find the server automatically without typing IP.
+
